@@ -1,0 +1,15 @@
+
+  mkdir nodejs
+  cd nodejs
+ 
+  npx create-react-app my-app
+
+  cd my-app
+  
+  npm install typescript
+  npm install bootstrap --save
+  npm install --save reactstrap react react-dom
+  
+  npm start
+ 
+ 
